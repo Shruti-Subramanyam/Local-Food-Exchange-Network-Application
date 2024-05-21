@@ -4,11 +4,6 @@
 
 The Local Food Exchange Network is a web-based application designed to connect local farmers with customers to facilitate the discovery and purchase of locally sourced food products. Developed as part of the DSCI551 Spring 2024 coursework at USC, this project implements a distributed database that stores data across two NoSQL systems, managed by a hash function.
 
-## Team Contributions
-
-- **Shruti Subramanyam**: Focused on frontend development using Streamlit, crafting the user interfaces for the web application and connecting them to backend service.
-- **Kyosuke Chikamatsu**: Concentrated on backend development, including database management and ensuring data integrity across the distributed system.
-
 ## Getting Started
 
 ### Prerequisites
@@ -100,11 +95,3 @@ sudo apt-get install jq
 
 Further development can include features such as payment integration, extended user profiles, and a more detailed analytics dashboard for farmers to track sales and product performance.
 
-## Contact
-
-For any inquiries regarding the Local Food Exchange Network application, please reach out to the contributors:
-
-- Shruti Subramanyam - shrutisu@usc.edu 
-- Kyosuke Chikamatsu - chikamat@usc.edu
-
-We appreciate your interest in our project and welcome any feedback or contributions!
